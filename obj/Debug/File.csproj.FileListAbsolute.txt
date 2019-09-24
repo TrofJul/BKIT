@@ -1,0 +1,10 @@
+C:\Users\yulec\source\repos\File\File\bin\Debug\File.exe.config
+C:\Users\yulec\source\repos\File\File\bin\Debug\File.exe
+C:\Users\yulec\source\repos\File\File\bin\Debug\File.pdb
+C:\Users\yulec\source\repos\File\File\obj\Debug\File.csprojAssemblyReference.cache
+C:\Users\yulec\source\repos\File\File\obj\Debug\Files.Form1.resources
+C:\Users\yulec\source\repos\File\File\obj\Debug\File.Properties.Resources.resources
+C:\Users\yulec\source\repos\File\File\obj\Debug\File.csproj.GenerateResource.cache
+C:\Users\yulec\source\repos\File\File\obj\Debug\File.csproj.CoreCompileInputs.cache
+C:\Users\yulec\source\repos\File\File\obj\Debug\File.exe
+C:\Users\yulec\source\repos\File\File\obj\Debug\File.pdb
